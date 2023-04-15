@@ -1,0 +1,8 @@
+node-modules filter=lfs diff=lfs merge=lfs -text
+node_modules filter=lfs diff=lfs merge=lfs -text
+node_modules/.cache/default-development
+<<<<<<< HEAD
+node_modules/ filter=lfs diff=lfs merge=lfs -text
+ filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> c78ebc659dcefb76392039a757eab68e6a3fd4fe
